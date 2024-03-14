@@ -1,9 +1,9 @@
 site_name: Awesome Python
 site_url: https://awesome-python.com
 site_description: A curated list of awesome Python frameworks, libraries and software
-site_author: Vinta Chen
-repo_name: vinta/awesome-python
-repo_url: https://github.com/vinta/awesome-python
+site_author: hirokisaito912 Chen
+repo_name: hirokisaito912/awesome-python
+repo_url: https://github.com/hirokisaito912/awesome-python
 theme:
   name: material
   palette:
@@ -12,11 +12,11 @@ theme:
 extra:
   social:
     - type: github
-      link: https://github.com/vinta
+      link: https://github.com/hirokisaito912
     - type: twitter
-      link: https://twitter.com/vinta
+      link: https://twitter.com/hirokisaito912
     - type: linkedin
-      link: https://www.linkedin.com/in/vinta
+      link: https://www.linkedin.com/in/hirokisaito912
 google_analytics:
   - UA-510626-7
   - auto

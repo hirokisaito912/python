@@ -1051,7 +1051,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [ftfy](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
     * [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
     * [Levenshtein](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity.
-    * [pangu.py](https://github.com/vinta/pangu.py) - Paranoid text spacing.
+    * [pangu.py](https://github.com/hirokisaito912/pangu.py) - Paranoid text spacing.
     * [pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
     * [pypinyin](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
     * [textdistance](https://github.com/orsinium/textdistance) - Compute distance between sequences with 30+ algorithms.
@@ -1138,7 +1138,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Web Frameworks
 
-*Traditional full stack web frameworks. Also see [RESTful API](https://github.com/vinta/awesome-python#restful-api).*
+*Traditional full stack web frameworks. Also see [RESTful API](https://github.com/hirokisaito912/awesome-python#restful-api).*
 
 * Synchronous
     * [django](https://github.com/django/django) - The most popular web framework in Python.
@@ -1190,9 +1190,9 @@ Where to discover learning resources or new Python libraries.
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/hirokisaito912/awesome-python/blob/master/CONTRIBUTING.md) first.
 
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me [@VintaChen](https://twitter.com/VintaChen) on Twitter or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me [@hirokisaito912](https://twitter.com/hirokisaito912) on Twitter or open an issue on GitHub.
 
